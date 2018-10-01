@@ -1,0 +1,11 @@
+{
+  "name": "poptoren",
+  "version": "1.0.0",
+  "description": "Wetorrent Based Torrent Downloader (For Web)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahulvramesh@hotmail.com",
+  "license": "ISC"
+}
